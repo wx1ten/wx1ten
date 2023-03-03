@@ -1,0 +1,29 @@
+{
+  "name": "wx1ten",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cagri": "echo 'benim adim cagri '",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "cagri barut",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.0.0",
+    "nodemailer": "^6.9.1",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.0.1"
+  },
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/wx1ten/wx1ten.git" 
+  }
+}
